@@ -1,0 +1,35 @@
+.bgImg {
+  height: 100vh;
+  background: url("../assets/images/bg/main.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 30%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.f-text {
+  color: white;
+  font-size: 3rem;
+  text-shadow: 2px 2px black;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/images/bg/Batman.jpg");
+  background-size: cover;
+}
+
+.superhero {
+  height: auto;
+  background: url("../assets/images/bg/romance.jpg");
+  background-size: cover;
+}
+
+.movieImg {
+  padding: 15px;
+  height: auto;
+}
